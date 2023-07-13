@@ -1,0 +1,45 @@
+body {
+    font-size: 20px;
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.odin {
+    color: brown;
+}
+
+.odin-img {
+    height: auto;
+    width: 650px;
+}
+
+.recipe {
+    text-align: center;
+}
+
+h3, li, p {
+    text-align: left;
+}
+
+h3 {
+    background-color: lightyellow;
+}
+
+p, li {
+    color:crimson;
+}
+
+.hash-browns {
+    color:red;
+}
+
+.pancake {
+    color: darkorange;
+}
+
+.burger {
+    color:seagreen; 
+}
